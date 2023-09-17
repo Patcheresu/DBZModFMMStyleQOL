@@ -1,0 +1,5 @@
+displayName = Dragon Ball Terraria QOL Drops
+author = Patcheresu
+version = 0.1
+modReferences = DBZMODPORT
+weakReferences = Fargowiltas, FargowiltasSouls
