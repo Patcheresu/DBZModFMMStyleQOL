@@ -1,0 +1,7 @@
+v{ModVersion} has been published to {tMLBuildPurpose} tML v{tMLVersion}.
+
+Fixed Luminous Sectum requiring Expert Mode, that was meant for Metamoran Sash.
+Metamoran Sash now requires Expert Mode.
+Added recipies for the following accessories: Burning Energy Amulet, Ice Energy Talisman, Baldur Essentia, Bloodstained Bandana
+Banner recipies now require Solidifier.
+Master Kai Fragment now requires Kai Table.

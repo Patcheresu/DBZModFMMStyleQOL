@@ -1,1 +1,4 @@
-Dragon Ball Terraria QOL Drops is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Dragon Ball Terraria QOL Drops
+
+Fargo's Mutant Mod styled recipes for RNG drops in Dragon Ball Terraria. Designed to work with Dragon Ball Terraria's 1.4.4 Port.
+Has soft dependencies on Fargo's Mutant Mod and Fargo's Souls, which it uses to grant new functionality and recipies.
